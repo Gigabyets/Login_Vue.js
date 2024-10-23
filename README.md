@@ -1,4 +1,5 @@
-# frontend
+# frontend  
+use vue-router and core-js
 
 ## Project setup
 ```
